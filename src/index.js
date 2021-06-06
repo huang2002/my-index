@@ -34,8 +34,8 @@ document.body.appendChild(
         h('h1', {
             id: 'title',
             style: {
-                margin: '3em 0 .5em',
-                fontSize: '2em',
+                margin: '2em 0 .5em',
+                fontSize: '2.5em',
                 textAlign: 'center',
             },
         },
