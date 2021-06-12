@@ -6,5 +6,6 @@ export const LINKS = [
     ['NPM', 'https://www.npmjs.com'],
     ['TypeScript', 'https://www.typescriptlang.org/'],
     ['bilibili', 'https://bilibili.com/'],
-    ['vercel', 'https://vercel.com/'],
+    ['Vercel', 'https://vercel.com/'],
+    ['RuanYifeng', 'http://ruanyifeng.com/blog/'],
 ];
