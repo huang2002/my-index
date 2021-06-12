@@ -8,4 +8,5 @@ export const LINKS = [
     ['bilibili', 'https://bilibili.com/'],
     ['Vercel', 'https://vercel.com/'],
     ['RuanYifeng', 'http://ruanyifeng.com/blog/'],
+    ['localhost:8080', 'http://localhost:8080']
 ];
