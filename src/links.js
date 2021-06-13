@@ -7,6 +7,7 @@ export const LINKS = [
     ['TypeScript', 'https://www.typescriptlang.org/'],
     ['bilibili', 'https://bilibili.com/'],
     ['Vercel', 'https://vercel.com/'],
-    ['RuanYifeng', 'http://ruanyifeng.com/blog/'],
-    ['localhost:8080', 'http://localhost:8080']
+    ['RuanYifeng', 'https://ruanyifeng.com/blog/'],
+    ['localhost:8080', 'http://localhost:8080/'],
+    ['GitHub', 'https://github.com/'],
 ];
