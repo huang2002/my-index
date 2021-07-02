@@ -10,4 +10,5 @@ export const LINKS = [
     ['RuanYifeng', 'https://ruanyifeng.com/blog/'],
     ['localhost:8080', 'http://localhost:8080/'],
     ['GitHub', 'https://github.com/'],
+    ['QQMail', 'https://mail.qq.com/'],
 ];
