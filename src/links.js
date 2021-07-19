@@ -9,6 +9,7 @@ export const LINKS = [
     ['Vercel', 'https://vercel.com/'],
     ['RuanYifeng', 'https://ruanyifeng.com/blog/'],
     ['localhost:8080', 'http://localhost:8080/'],
+    ['localhost:3000', 'http://localhost:3000/'],
     ['GitHub', 'https://github.com/'],
     ['QQMail', 'https://mail.qq.com/'],
 ];
