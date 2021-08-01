@@ -12,4 +12,5 @@ export const LINKS = [
     ['localhost:3000', 'http://localhost:3000/'],
     ['GitHub', 'https://github.com/'],
     ['QQMail', 'https://mail.qq.com/'],
+    ['tuke88', 'http://www.tuke88.com/peiyue/'],
 ];
