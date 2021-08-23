@@ -29,13 +29,14 @@ document.body.appendChild(
             top: '0',
             width: '100%',
             height: '100%',
+            overflow: 'auto',
         },
     },
         h('h1', {
             id: 'title',
             style: {
-                margin: '2em 0 .5em',
-                fontSize: '2.5em',
+                margin: '1.6em 0 .8em',
+                fontSize: '2em',
                 textAlign: 'center',
             },
         },
