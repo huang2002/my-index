@@ -10,6 +10,7 @@ export const LINKS = [
     ['RuanYifeng', 'https://ruanyifeng.com/blog/'],
     ['localhost:8080', 'http://localhost:8080/'],
     ['localhost:3000', 'http://localhost:3000/'],
+    ['localhost:5000', 'http://localhost:5000/'],
     ['GitHub', 'https://github.com/'],
     ['QQMail', 'https://mail.qq.com/'],
     ['tuke88', 'http://www.tuke88.com/peiyue/'],
