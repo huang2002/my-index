@@ -13,6 +13,7 @@ export const LINKS = [
     ['localhost:5000', 'http://localhost:5000/'],
     ['GitHub', 'https://github.com/'],
     ['QQMail', 'https://mail.qq.com/'],
+    ['QZone', 'https://qzone.qq.com/'],
     ['tuke88', 'http://www.tuke88.com/peiyue/'],
     ['MDN', 'https://developer.mozilla.org/'],
     ['chuangkit', 'https://chuangkit.com'],
