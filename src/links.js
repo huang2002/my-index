@@ -16,5 +16,6 @@ export const LINKS = [
     ['QZone', 'https://qzone.qq.com/'],
     ['tuke88', 'http://www.tuke88.com/peiyue/'],
     ['MDN', 'https://developer.mozilla.org/'],
-    ['chuangkit', 'https://chuangkit.com'],
+    ['chuangkit', 'https://chuangkit.com/'],
+    ['eqxiu', 'https://eqxiu.com/'],
 ];
