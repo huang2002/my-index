@@ -18,4 +18,5 @@ export const LINKS = [
     ['MDN', 'https://developer.mozilla.org/'],
     ['chuangkit', 'https://chuangkit.com/'],
     ['eqxiu', 'https://eqxiu.com/'],
+    ['texdoc', 'https://texdoc.org/'],
 ];
