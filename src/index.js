@@ -53,7 +53,7 @@ document.body.appendChild(
             style: {
                 display: 'flex',
                 width: '100%',
-                maxWidth: '750px',
+                maxWidth: '900px',
                 margin: '0 auto',
                 justifyContent: 'center',
                 flexFlow: 'wrap',
