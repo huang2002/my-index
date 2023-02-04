@@ -19,4 +19,5 @@ export const LINKS = [
     ['chuangkit', 'https://chuangkit.com/'],
     ['eqxiu', 'https://eqxiu.com/'],
     ['texdoc', 'https://texdoc.org/'],
+    ['Flask', 'https://flask.palletsprojects.com/'],
 ];
