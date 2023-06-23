@@ -20,4 +20,5 @@ export const LINKS = [
     ['eqxiu', 'https://eqxiu.com/'],
     ['texdoc', 'https://texdoc.org/'],
     ['Flask', 'https://flask.palletsprojects.com/'],
+    ['iconfont', 'https://www.iconfont.cn/'],
 ];
