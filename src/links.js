@@ -21,4 +21,5 @@ export const LINKS = [
     ['texdoc', 'https://texdoc.org/'],
     ['Flask', 'https://flask.palletsprojects.com/'],
     ['iconfont', 'https://www.iconfont.cn/'],
+    ['antdv', 'https://www.antdv.com/'],
 ];
