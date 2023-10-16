@@ -1,6 +1,4 @@
 export const LINKS = [
-    ['XiuMi', 'https://xiumi.us/'],
-    ['WeiXin', 'https://mp.weixin.qq.com/'],
     ['ECUST', 'https://www.ecust.edu.cn/'],
     ['Node.js', 'https://nodejs.org/'],
     ['NPM', 'https://www.npmjs.com'],
@@ -14,12 +12,8 @@ export const LINKS = [
     ['GitHub', 'https://github.com/'],
     ['QQMail', 'https://mail.qq.com/'],
     ['QZone', 'https://qzone.qq.com/'],
-    ['tuke88', 'http://www.tuke88.com/peiyue/'],
     ['MDN', 'https://developer.mozilla.org/'],
-    ['chuangkit', 'https://chuangkit.com/'],
-    ['eqxiu', 'https://eqxiu.com/'],
     ['texdoc', 'https://texdoc.org/'],
-    ['Flask', 'https://flask.palletsprojects.com/'],
     ['iconfont', 'https://www.iconfont.cn/'],
-    ['antdv', 'https://www.antdv.com/'],
+    ['Gitee', 'https://gitee.com/'],
 ];
